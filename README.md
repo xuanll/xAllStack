@@ -10,7 +10,12 @@ Ref docs:
 
 
 --- 
-## 一些概念
+## [一些概念](https://github.com/xuanll/xAllStack/blob/master/terms.md)
+- `npm`
+> Node.js默认的，以JavaScript编写的软件包管理系统
 
-
-## 一些命令
+## [一些命令](https://github.com/xuanll/xAllStack/blob/master/cmd.md)
+ - Mac安装[Homebrew](https://brew.sh/index_zh-cn)
+`/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+- `ps aux | grep nginx`
+- `sudo pkill -9 nginx`
